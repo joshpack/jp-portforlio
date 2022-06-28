@@ -4,7 +4,6 @@ import {
   FaTimes,
   FaGithub,
   FaLinkedinIn,
-  FaFacebook,
 } from "react-icons/fa";
 import Logo from "../assets/jp_logo.png";
 import { HiOutlineMail } from "react-icons/hi";
